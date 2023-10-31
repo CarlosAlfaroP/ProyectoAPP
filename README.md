@@ -97,3 +97,18 @@ Este proyecto proporciona una estructura lista para la compilación en diversas 
     - La implementación del módulo iOS está pendiente. Próximamente estará disponible.
 
 Ten en cuenta que estos son pasos generales, y la configuración específica puede variar según tu proyecto y las herramientas que utilices. Asegúrate de personalizar esta sección según las particularidades de tu proyecto.
+
+## Contribución
+
+Este proyecto es el resultado del esfuerzo y la colaboración de los siguientes contribuyentes:
+
+- Alumnos de Ingeniería Informática en UNIACC:
+   - Carlos Alfaro Palma
+   - Susana Saravia Medina
+   - Maximiliano Arancibia Cares
+
+Si deseas contribuir a este proyecto, no dudes en ponerte en contacto con los contribuyentes mencionados.
+
+## Licencia
+
+Este proyecto se distribuye bajo una licencia de código abierto y se encuentra en constante desarrollo. Consulta la licencia específica en el archivo "LICENSE" adjunto al proyecto.
