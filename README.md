@@ -1,4 +1,6 @@
-# ProyectoAPP
+<!-- # ProyectoAPP -->
+[![Banner](https://repository-images.githubusercontent.com/691241538/8e385bd6-2490-437a-9475-2ae32345e33e)](https://github.com/CarlosAlfaroP/ProyectoAPP)
+
 **Estructura de una APP Multiplataforma en Kotlin**
 
 ## Descripción
