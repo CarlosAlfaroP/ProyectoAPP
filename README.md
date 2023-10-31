@@ -3,7 +3,7 @@
 
 ## Descripción
 
-Este proyecto proporciona una estructura básica para desarrollar una aplicación multiplataforma en Kotlin utilizando la tecnología de Kotlin Multiplataforma. La estructura consta de un módulo "Common" que alberga la lógica compartida, permitiendo la creación de aplicaciones para Android, Web (WebAssembly), y plataformas de escritorio (macOS, Windows, Linux) a partir de un único código base.
+Este proyecto proporciona una estructura básica para desarrollar una aplicación multiplataforma en Kotlin utilizando la tecnología de Kotlin Multiplataforma. La estructura consta de un módulo "Common" que alberga la lógica compartida, permitiendo la creación de aplicaciones para Android, Web (WebAssembly) y plataformas de escritorio (macOS, Windows, Linux) a partir de un único código base.
 
 ## Tabla de Contenidos
 - [Características](#características)
@@ -94,9 +94,9 @@ Este proyecto proporciona una estructura lista para la compilación en diversas 
 
 7. **Módulo iOS (TODO)**:
 
-    - La implementación del módulo iOS está pendiente. Próximamente estará disponible.
+    - La implementación del módulo iOS está pendiente. Estará disponible en próximas actualizaciones.
 
-Ten en cuenta que estos son pasos generales, y la configuración específica puede variar según tu proyecto y las herramientas que utilices. Asegúrate de personalizar esta sección según las particularidades de tu proyecto.
+Ten en cuenta que estos son pasos generales, y la configuración específica puede variar según tu proyecto y las herramientas que utilices. 
 
 ## Contribución
 
